@@ -9,9 +9,9 @@ My personal mtab config.
 
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://github.com/fr0st-iwnl/mtab-config/blob/main/background/1.jpeg" width="500">
-    <img src="https://github.com/fr0st-iwnl/mtab-config/blob/main/background/2.png" width="500">
-    <img src="https://github.com/fr0st-iwnl/mtab-config/blob/main/background/3.jpg" width="500">
+    <img src="https://github.com/fr0st-iwnl/mtab-config/blob/main/background/1.jpeg">
+    <img src="https://github.com/fr0st-iwnl/mtab-config/blob/main/background/2.png">
+    <img src="https://github.com/fr0st-iwnl/mtab-config/blob/main/background/3.jpg">
       </tr></table></div>
   </p>
 
