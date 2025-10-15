@@ -2,16 +2,27 @@
 
 My personal mtab config.
 
+# 🍀 How to Use
+
+### 1. Use Only the CSS
+Pick the CSS you like from the CSS folder and add it in your mTab settings.
+
+### OR
+
+### 2. Use the Full Config
+Want the setup exactly like in the video? Choose a config from the [configs folder](https://github.com/fr0st-iwnl/mtab-config/tree/main/configs) and import it into mTab.
+
 # 🖼️ Backgrounds
 
 <details>
- <summary>🔍 <strong>Preview</strong> some of the backgrounds :)</summary>
+ <summary>🔍 <strong>Preview</strong> some of the backgrounds that appear in the showcase :)</summary>
 
   <p align="center">
     <div align="left"><table><tr></tr><tr><td>
-    <img src="https://github.com/fr0st-iwnl/mtab-config/blob/main/background/1.jpeg">
-    <img src="https://github.com/fr0st-iwnl/mtab-config/blob/main/background/2.png">
-    <img src="https://github.com/fr0st-iwnl/mtab-config/blob/main/background/3.jpg">
+    <img src="https://github.com/fr0st-iwnl/mtab-config/blob/assets/assets/backgrounds/01.%20Background.png">
+    <img src="https://github.com/fr0st-iwnl/mtab-config/blob/assets/assets/backgrounds/02.%20Background.jpg">
+    <img src="https://github.com/fr0st-iwnl/mtab-config/blob/assets/assets/backgrounds/03.%20Background.png">
+    <img src="https://github.com/fr0st-iwnl/mtab-config/blob/assets/assets/backgrounds/04.%20Background.png">
       </tr></table></div>
   </p>
 
