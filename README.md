@@ -5,12 +5,12 @@ My personal mtab config.
 # 🍀 How to Use
 
 ### 1. Use Only the CSS
-Pick the CSS you like from the CSS folder and add it in your mTab settings.
+Pick the CSS you like from the [CSS folder](https://github.com/fr0st-iwnl/mtab-config/tree/main/css) and add it in your **MTab settings**.
 
 ### OR
 
 ### 2. Use the Full Config
-Want the setup exactly like in the video? Choose a config from the [configs folder](https://github.com/fr0st-iwnl/mtab-config/tree/main/configs) and import it into mTab.
+Want the setup exactly like in the video? Choose a config from the [configs folder](https://github.com/fr0st-iwnl/mtab-config/tree/main/configs) and import it into **MTab**.
 
 # 🖼️ Backgrounds
 
