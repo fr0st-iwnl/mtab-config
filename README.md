@@ -32,7 +32,9 @@ Want the setup exactly like in the video? Choose a config from the [configs fold
 
 # 📸 Showcase
 
-https://github.com/user-attachments/assets/0a070c9f-9ccb-471f-b971-89cebee7fc9c
+https://github.com/user-attachments/assets/33780a67-9d8d-4a8d-9d61-daf5b5c483f7
+
+
 
 
 
